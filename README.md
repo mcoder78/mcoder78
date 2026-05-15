@@ -17,8 +17,8 @@
 
 Computer Science BSC • vulnerabilities/exploits • tutor • educational projects • security research + opsec
 
-Languages • C++, Javascript, Kotlin, Python
+                   Languages • C++, Javascript, Kotlin, Python
 
-Anime manga manwha, avid minecrafter, game cheats are interesting
+            Anime manga manwha, avid minecrafter, game cheats are interesting
 
-| More loading soon... |
+                           | More loading soon... |
